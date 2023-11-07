@@ -4,7 +4,6 @@
 <head>
     <meta charset="utf-8">
     <meta property="og:image" content="https://www.top4top.me/do.php?imgf=top4top_me953ba2ffca2f1.jpeg" />
-    <meta property="og:image:alt" content="Ryuzure 🔥 is a leading platform that provides website development services and various resourceful tools tailored to meet the needs of developers." />
     <title>KALA HITAM RUNNERS</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
