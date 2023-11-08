@@ -1,1 +1,2 @@
 # kalahitamrunners
+# Semangat, Ikhlas, Berhasil
