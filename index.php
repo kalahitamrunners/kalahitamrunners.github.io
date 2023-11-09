@@ -6,6 +6,7 @@
     <meta property="og:image" content="https://www.top4top.me/do.php?imgf=top4top_me953ba2ffca2f1.jpeg" />
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1467579346302163"
      crossorigin="anonymous"></script>
+    <meta name="google-site-verification" content="0sYAjnrW3CIVg1DYRZOqQnRfafqk8zysRaYXeYMZEoE" />
     <title>KALA HITAM RUNNERS</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
