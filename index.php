@@ -14,7 +14,7 @@
     <meta name="google-adsense-account" content="ca-pub-1467579346302163">
 
     <!-- Favicon -->
-    <link href="" rel="icon">
+    <link href="img/title2.jpg" rel="icon">
     <link itemprop="thumbnailUrl" href="img/title2.jpg"> <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"> <link itemprop="url" href="img/title2.jpg"> </span>
 
     <!-- Google Web Fonts -->
